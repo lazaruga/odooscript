@@ -2,7 +2,7 @@
 sudo apt-get update
 sudp apt-get upgrade -y
 sudo apt-get install tasksel -y
-sudo tasksel ubuntu-desktop
+sudo tasksel install ubuntu-desktop
 wget --output-document odoo.sh http://lazarugashops.com/odoo/odoo.sh
 sudo chmod +x odoo.sh
 sudo sh ./odoo.sh

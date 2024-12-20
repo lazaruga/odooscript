@@ -1,9 +1,6 @@
 # odooscript
 # odoodeploy
 
-(Copyright 2019 - OdooERPCloud)
-
-https://www.odooerpcloud.com
 
 Odoo Deploy Tools
 
